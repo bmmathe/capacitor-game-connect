@@ -31,3 +31,5 @@ out
 # Gradle files
 .gradle
 build
+
+.npmrc
